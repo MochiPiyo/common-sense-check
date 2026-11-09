@@ -1,0 +1,3 @@
+interface:
+  display_name: "常識的チェックタイム"
+  short_description: "GUI・デザイン・コード全体の常識的におかしい部分を確認して減らす"
